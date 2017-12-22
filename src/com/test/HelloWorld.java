@@ -9,8 +9,6 @@ public class HelloWorld {
         System.out.println("hello world!");//aaa
         System.out.println("service!");
 		System.out.println("local");
-
-        System.out.println("ca");
     }
 
 }
