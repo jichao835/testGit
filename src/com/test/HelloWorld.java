@@ -7,7 +7,8 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("hello world!");//aaa
-        System.out.println("local");
+        System.out.println("service!");
+		System.out.println("local");
     }
 
 }
