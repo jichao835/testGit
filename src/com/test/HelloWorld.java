@@ -10,7 +10,7 @@ public class HelloWorld {
         System.out.println("service!");
 		System.out.println("local");
         System.out.println("sb");
-		System.out.println("nimgg");
+		System.out.println("nimggggg");
     }
 
 }
