@@ -11,6 +11,7 @@ public class HelloWorld {
 		System.out.println("local");
         System.out.println("sb");
 		System.out.println("nimggggg");
+        System.out.println("renzhi");
     }
 
 }
